@@ -1,2 +1,6 @@
-# Hey there!
-To preview the Alphabet experiment, please go to: https://yutangmoo.github.io/MakeCode/Week_01/Alphabet_Letter_M/
+# Week 01
+
+My first experience in coding P5.js.
+
+Followed Karen's famous "Hour of Code" and made my first JavaScript canvas:
+
