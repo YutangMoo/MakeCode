@@ -10,19 +10,19 @@ I interpreted the first statement of the OK Text as a warning to the audience, s
 
 To create great contrast between a harmless webpage and the cruelty of the technological determinism statements, I’ve planned to have random broken-up texts floating on screen. After testing I’ve determined that four randomly selected and scrambled sentences can form a better experience when displayed on a typical browser screen. The floating texts can react to mouse movement (effect not yet determined).
 
-![1_1](/Images/1_1.gif)
+![1_1](https://github.com/YutangMoo/MakeCode/blob/master/Week_08/Prototype_OK_Texts/Images/1_1.gif)
 
 When user decided to interact, by clicking anywhere on the canvas, a sentence (from the original text) will form by assembling scrambled words. The word that not assembled will fly off the screen, leaving user the statement, the prompt and only one button to continue - OK.
 
 > The floating words represent the seemingly nativity of plain technology, which covering the “great pain“ it caused when the technology were enabled with the ability of determine the society.
 
-![1_2](/Images/1_2.gif)
+![1_2](https://github.com/YutangMoo/MakeCode/blob/master/Week_08/Prototype_OK_Texts/Images/1_2.gif)
 
 After pressing the ok button, the screen goes black and four more sets of randomly selected statement will display on a black background. 
 
 > The background will switch between black and white with each OK click.
 
-![1_3](/Images/1_3.gif)
+![1_3](https://github.com/YutangMoo/MakeCode/blob/master/Week_08/Prototype_OK_Texts/Images/1_3.gif)
 
 
 
@@ -32,7 +32,7 @@ After pressing the ok button, the screen goes black and four more sets of random
 
 1. In the early phase of prototyping, I’ve created a random cruel statement generator, which contains the basic structure of sentences, with words extracted and filled from a randomiser database. Please see below demonstration.
 
-2. ![Generator Demo](/Images/Generator Demo.gif)
+2. ![Generator Demo](https://github.com/YutangMoo/MakeCode/blob/master/Week_08/Prototype_OK_Texts/Images/Generator Demo.gif)
 
 3. > **Prototype Transcript:**
    >
