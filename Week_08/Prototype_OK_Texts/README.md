@@ -32,7 +32,7 @@ After pressing the ok button, the screen goes black and four more sets of random
 
 1. In the early phase of prototyping, I’ve created a random cruel statement generator, which contains the basic structure of sentences, with words extracted and filled from a randomiser database. Please see below demonstration.
 
-![Generator Demo](https://github.com/YutangMoo/MakeCode/blob/master/Week_08/Prototype_OK_Texts/Images/Generator Demo.gif)
+![Generator_Demo](https://github.com/YutangMoo/MakeCode/blob/master/Week_08/Prototype_OK_Texts/Images/Generator_Demo.gif)
 
 3. > **Prototype Transcript:**
    >
