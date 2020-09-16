@@ -4,7 +4,7 @@
 
 ### - a Brutal Interactive "Technological Determinism" Experience
 
-OK text is a literal representation of the term “Technological Determinism”. I’m trying to emphasis the helplessness and cruelty of Mark Amerika’s words. 
+OK text is a literal representation of the term “Technological Determinism”. In the Major Project, I want to emphasis the helplessness and cruelty of Mark Amerika’s brutal words. 
 
 I interpreted the first statement of the OK Text as a warning to the audience, suggesting that the incoming Technological Determinism statements can cause viewer great pain, so I kept it as a warning screen to let user know to proceed with caution.
 
