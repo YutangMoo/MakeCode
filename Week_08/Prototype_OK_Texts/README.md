@@ -25,7 +25,8 @@ After pressing the ok button, the screen goes black and four more sets of random
 ![1_3](https://github.com/YutangMoo/MakeCode/blob/master/Week_08/Prototype_OK_Texts/Images/1_3.gif)
 
 ## Pseudocode
-'Int
+```
+Int
 	canvas size = browser window size
 	canvas color = black
 	database (wordCloud)
@@ -50,7 +51,8 @@ If button (OK) pressed
 		Display associated prompt (text-style:bold prompt)
 		Display button (OK)
 End if
-Repeat'
+Repeat
+```
 
 ## Potential Expansions
 
