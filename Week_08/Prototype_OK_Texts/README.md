@@ -24,7 +24,33 @@ After pressing the ok button, the screen goes black and four more sets of random
 
 ![1_3](https://github.com/YutangMoo/MakeCode/blob/master/Week_08/Prototype_OK_Texts/Images/1_3.gif)
 
+## Pseudocode
+'Int
+	canvas size = browser window size
+	canvas color = black
+	database (wordCloud)
+	statements from OK Texts breaking up into individual words (statement)
+	and their associated prompt (prompt)
 
+Start
+	display (“Technological determinism will cause you great pain.”)
+	display (text-style: bold “Continue?”)
+	button (OK “OK”)
+
+If button (OK) pressed
+	If canvas color=black
+		change canvas color=white
+	else
+		canvas color=black
+	Display 3 random sets of statements from (wordCloud)
+		If mouse hovers over words
+		then display interactive animation (yet to be determined)
+	If user clicks Canvas
+		Form 1 statement (statement)
+		Display associated prompt (text-style:bold prompt)
+		Display button (OK)
+End if
+Repeat'
 
 ## Potential Expansions
 
