@@ -11,20 +11,23 @@ class Particle {
     this.x = random(0,width);
     this.y = random(0,height);
     this.r = random(1,8);
-    this.xSpeed = random(-1,1);
-    this.ySpeed = random(-0.2,0.2);
+    this.xSpeed = random(-0.5,0.5);
+    this.ySpeed = random(-0.1,0.1);
   }
   
 
 // creation of a particle.
   createParticle(counter) {
     var a = ['Your', 'health', 'will', 'one', 'day', 'disappear', 'and', 'you', 'will', 'die', 'without', 'meaning'];
+    var b = ['There', 'are', 'many', 'men', 'and', 'women', 'who', 'dream', 'of', 'making', 'love', 'to', 'you', 'but', 'you', 'will', 'never', 'get', 'to', 'know', 'them'];
     noStroke();
-    fill('rgba(0,0,0)');
     textSize (16);
 // below lines modified by code master Finn
     for (var i = 0; i < a.length; i++) {
-      text(a[counter], this.x, this.y);
+      fill('rgba(255,255,255,1)');
+      text(a[counter], this.x + mouseX/30, this.y);
+      fill('rgba(255,255,255,0.1)');
+      text(b[counter], this.x + mouseX/70 + 50, this.y+50);
     }
   }
 // above lines modified by code master Finn
