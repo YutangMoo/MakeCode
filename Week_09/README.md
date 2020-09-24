@@ -4,3 +4,4 @@ Had a bit of fun modifying and adjusting P5.JS's example of particle system, and
 
 https://yutangmoo.github.io/MakeCode/Week_09/Text_Cloud/
 
+(with help from code master Finn: https://github.com/FinnArundel/codewordsRMIT)
