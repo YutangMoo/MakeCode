@@ -1,8 +1,8 @@
-// particle system from: p5js.org/examples/simulate-particles.html
+// particle system from: p5js.org/examples/simulate-words.html
 // modified by Yutang Mu S3730557 RMIT
 
 // this class describes the properties of a single particle.
-class Particle {
+class Words {
   
   
 // setting the co-ordinates, radius and the
@@ -17,7 +17,7 @@ class Particle {
   
 
 // creation of a particle.
-  createParticle(counter) {
+  createWords(counter) {
     var a = ['Your', 'health', 'will', 'one', 'day', 'disappear', 'and', 'you', 'will', 'die', 'without', 'meaning'];
     var b = ['There', 'are', 'many', 'men', 'and', 'women', 'who', 'dream', 'of', 'making', 'love', 'to', 'you', 'but', 'you', 'will', 'never', 'get', 'to', 'know', 'them'];
     noStroke();
@@ -33,7 +33,7 @@ class Particle {
 // above lines modified by code master Finn
 
 // setting the particle in motion.
-  moveParticle() {
+  moveWords() {
     if(this.x < 0 || this.x > width){
       this.xSpeed*=-1;}
     if(this.y < 0 || this.y > height){
@@ -44,22 +44,22 @@ class Particle {
 }
 
 
-// an array to add multiple particles
-let particles = [];
+// an array to add multiple words
+let words = [];
 
 
 function setup() {
   createCanvas(windowWidth, windowHeight); //changed to fullscreen
   for(let i = 0;i<width/10;i++){
-    particles.push(new Particle());
+    words.push(new Words());
   }
 }
 
 
 function draw() {
   background('#0f0f0f');
-  for(let i = 0;i<particles.length;i++) {
-    particles[i].createParticle(i);
-    particles[i].moveParticle(i);
+  for(let i = 0;i<words.length;i++) {
+    words[i].createWords(i);
+    words[i].moveWords(i);
   }
 }
