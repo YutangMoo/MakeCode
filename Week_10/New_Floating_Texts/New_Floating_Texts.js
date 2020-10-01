@@ -1,6 +1,7 @@
 let sentence1 = 'Your health will one day disappear and you will die without meaning';
 let words=[];
 let wordList=[];
+
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(0); 
@@ -25,7 +26,6 @@ class Floating {
   constructor(wordIn){
     this.x = random(0,width);
     this.y = random(0,height);
-    this.r = random(1,8);
     this.xSpeed = random(-0.5,0.5);
     this.ySpeed = random(-0.1,0.1);
     this.word = wordIn;
@@ -41,6 +41,6 @@ class Floating {
   }
   
   display() {
-      text(this.word, this.x + mouseX/30, this.y);
+    text(this.word, this.x +- mouseX/15, this.y +- mouseY/50);
   }
 }
