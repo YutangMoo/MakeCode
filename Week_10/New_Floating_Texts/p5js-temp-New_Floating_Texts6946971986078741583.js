@@ -41,6 +41,8 @@ class Floating {
   }
   
   display() {
+
       text(this.word, this.x + mouseX/30, this.y);
+      
   }
 }
