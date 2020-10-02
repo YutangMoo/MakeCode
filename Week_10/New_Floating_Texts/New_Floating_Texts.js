@@ -1,3 +1,8 @@
+//a remix originally from: https://p5js.org/examples/simulate-particles.html
+//first working version fixed by Finn Arundel: https://github.com/FinnArundel/codewordsRMIT
+//second version (current) almost burn down my computer, fixed by Karen Ann Donnachie: https://github.com/karenanndonnachie
+//TODO: figure out how to reform the texts into sentences.
+
 let sentence1 = 'Your health will one day disappear and you will die without meaning';
 let sentence2 = 'There are many men and women who dream of making love to you but you will never get to know them';
 let sentence3 = 'Oblivion is the only cure for agony';
