@@ -50,3 +50,14 @@ function draw() {
     wordList3[i].display();
   }
 }
+
+function mousePressed() {
+  noLoop();
+  background(0,0,0);
+  textSize(26);
+  textFont(MONO);
+  fill(255, 255, 100);
+  text("Your health will one day disappear and you will die without meaning.", 20, 50);
+  fill(255, 0, 0);
+  text("OK", 20, 80);
+}
