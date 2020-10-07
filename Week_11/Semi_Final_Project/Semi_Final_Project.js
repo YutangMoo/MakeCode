@@ -12,6 +12,17 @@ let words3=[];
 let wordList1=[];
 let wordList2=[];
 let wordList3=[];
+let r1=255;
+let g1=255;
+let b1=100;
+let a1=80;
+
+let bg=(100,100,100,30);
+
+let continuePrompt= 'CLICK TO CONTINUE';
+
+let text1= '';
+let ok1= '';
 
 function preload() {
   MONO = loadFont('data/NotoMono_Regular.ttf');
@@ -35,7 +46,7 @@ function setup() {
 }
 
 function draw() {
-  background(100,100,100,30);
+  background(bg);
   //textSize(20);
   for (let i=0; i<words1.length; i++) {
     wordList1[i].move();
@@ -49,15 +60,27 @@ function draw() {
     wordList3[i].move();
     wordList3[i].display();
   }
-}
-
-function mousePressed() {
-  noLoop();
-  background(0,0,0);
+  textSize(32);
+  textFont(MONO);
+  fill(255, 255, 255);
+  text(continuePrompt, 20, 50); 
+  
   textSize(26);
   textFont(MONO);
   fill(255, 255, 100);
-  text("Your health will one day disappear and you will die without meaning.", 20, 50);
+  text(text1, 20, 50); 
+
   fill(255, 0, 0);
-  text("OK", 20, 80);
+  text(ok1, 20, 100);
+}
+
+function mousePressed() {
+  r1=0;
+  b1=0;
+  g1=0;
+  a1=0;
+  bg=(10);
+  continuePrompt= '';
+  text1 = 'Your health will one day disappear and you will die without meaning.';
+  ok1 = '[Click to] OK';
 }

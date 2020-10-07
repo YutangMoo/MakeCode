@@ -19,7 +19,7 @@ class Floating1 {
   display() {
     textSize(26);
     textFont(MONO);
-    fill(255, 255, 100, 80);
+    fill(r1, g1, b1, a1);
     text(this.word1, this.x +- mouseX/15, this.y +- mouseY/50);
   }
 }
