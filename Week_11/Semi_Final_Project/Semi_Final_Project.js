@@ -75,11 +75,13 @@ function draw() {
 }
 
 function mousePressed() {
-  r1=0;
-  b1=0;
-  g1=0;
-  a1=0;
-  bg=(10);
+  //r1=0;
+  //b1=0;
+  //g1=0;
+  //a1=0;
+  //bg=(10);
+  wordList1.splice(0,1);
+  words1.splice(0,1);
   continuePrompt= '';
   text1 = 'Your health will one day disappear and you will die without meaning.';
   ok1 = '[Click to] OK';
