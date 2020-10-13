@@ -1,7 +1,6 @@
 //a remix originally from: https://p5js.org/examples/simulate-particles.html
 //first working version fixed by Finn Arundel: https://github.com/FinnArundel/codewordsRMIT
 //second version (current) almost burn down my computer, fixed by Karen Ann Donnachie: https://github.com/karenanndonnachie
-//TODO: figure out how to reform the texts into sentences.
 let beep;
 let bgNoise;
 let rad;
