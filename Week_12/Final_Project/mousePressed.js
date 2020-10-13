@@ -144,7 +144,7 @@ function mousePressed() {
   if (clicks>35) {
     wordList3.splice(0,1);
     words3.splice(0,1);
-    continuePrompt2='DESTRUCTED.';
+    continuePrompt2='DESTROYED.';
     text2= '';
     hearts='♥';
   }
