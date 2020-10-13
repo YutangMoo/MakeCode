@@ -52,6 +52,10 @@ let buttonBgColor=[255,0,0,80];
 let points;
 let bounds;
 
+//WARNING SETTINGS
+let warningBoxColor=[255,255,255,255];
+let warningBoxBorder=[0,0,0,255];
+
 function preload() {
   soundFormats('mp3');
   beep = loadSound('data/Beep.mp3');
@@ -177,19 +181,22 @@ function draw() {
   text(continuePrompt3, width/2 + mild, height/4+280+80 + mild);
   
   //WARNING
-  fill(255);
-  stroke(0);
+  fill(warningBoxColor);
+  stroke(warningBoxBorder);
   strokeWeight(2);
-  rect(20, 20, 250, 140);
+  rect(20, 20, 250, 240);
   textSize(16);
-  fill(0);
+  fill(warningBoxBorder);
   noStroke();
   textFont(WARNING);
-  text('SEIZURE WARNING:\nFlashing Images.\n\nTechnological determinism\nwill cause you great pain.', 125+20, 55);
+  text('Technological determinism\nwill cause you great pain.\n\nSEIZURE WARNING:\nFlashing Images.\n\nThis demo currently can only \nrun in desktop browsers.\n\nCLICK ANYWHERE TO DISMISS', 125+20, 55);
 }
 
 
 function mouseReleased() {
+  warningBoxColor=[255,255,255,0];
+  warningBoxBorder=[0,0,0,0];
+  
   if (clicks==13 || clicks==35 || clicks==43) {
     rad.play();
   }
@@ -215,9 +222,10 @@ function mouseReleased() {
   }
   if (clicks>=44) {
     bg=[0];
-    bgNoise.stop();
     okPrompt= '';
     flatline.play();
     buttonBgColor=[0];
+    bgNoise.stop();
+    bgNoise.noLoop();
   }
 }

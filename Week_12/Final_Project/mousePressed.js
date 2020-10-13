@@ -98,40 +98,40 @@ function mousePressed() {
     text2= 'There are many men and women who dream of';
   }
   if (words2.length==11){
-    text2= 'There are many men and women who dream of \nmaking';
+    text2= 'There are many men and women who dream of making';
   }
   if (words2.length==10){
-    text2= 'There are many men and women who dream of \nmaking love';
+    text2= 'There are many men and women who dream of making \nlove';
   }
   if (words2.length==9){
-    text2= 'There are many men and women who dream of \nmaking love to';
+    text2= 'There are many men and women who dream of making \nlove to';
   }
   if (words2.length==8){
-    text2= 'There are many men and women who dream of \nmaking love to you';
+    text2= 'There are many men and women who dream of making \nlove to you';
   }
   if (words2.length==7){
-    text2= 'There are many men and women who dream of \nmaking love to you but';
+    text2= 'There are many men and women who dream of making \nlove to you but';
   }
   if (words2.length==6){
-    text2= 'There are many men and women who dream of \nmaking love to you but you';
+    text2= 'There are many men and women who dream of making \nlove to you but you';
   }
   if (words2.length==5){
-    text2= 'There are many men and women who dream of \nmaking love to you but you will';
+    text2= 'There are many men and women who dream of making \nlove to you but you will';
   }
   if (words2.length==4){
-    text2= 'There are many men and women who dream of \nmaking love to you but you will never';
+    text2= 'There are many men and women who dream of making \nlove to you but you will never';
   }
   if (words2.length==3){
-    text2= 'There are many men and women who dream of \nmaking love to you but you will never get';
+    text2= 'There are many men and women who dream of making \nlove to you but you will never get';
   }
   if (words2.length==2){
-    text2= 'There are many men and women who dream of \nmaking love to you but you will never get to';
+    text2= 'There are many men and women who dream of making \nlove to you but you will never get to';
   }
   if (words2.length==1){
-    text2= 'There are many men and women who dream of \nmaking love to you but you will never get to know';
+    text2= 'There are many men and women who dream of making \nlove to you but you will never get to know';
   }
   if (words2.length==0){
-    text2= 'There are many men and women who dream of \nmaking love to you but you will never get to know them.';
+    text2= 'There are many men and women who dream of making \nlove to you but you will never get to know them.';
   }
   if (clicks>=35) {
     continuePrompt2='Autodestruct?';
