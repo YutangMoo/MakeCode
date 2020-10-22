@@ -35,4 +35,3 @@ We practised, which was lead by Karen of course, to create markdown files which 
 > ![Week2_Github_Yutang](/Users/yutang/Documents/GitHub/MakeCode/Week_02/Images/Week2_Github_Yutang.png)
 
 I'm agreeing with Andy that, as a designer, owning a Github repo of your own is something worth showoff about. I'm already 40% happier. 
-
