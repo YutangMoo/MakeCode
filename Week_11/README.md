@@ -17,7 +17,7 @@ These simple lines of code were all about try and error, which I, once again, sp
 
 Long story short, after adding effects like crazy, I'm more than satisfied with the end result:
 
-![1](/Users/yutang/Documents/GitHub/MakeCode/Week_11/Images/1.png)
+![1](https://github.com/YutangMoo/MakeCode/blob/master/Week_11/Images/1.png)
 
 https://yutangmoo.github.io/MakeCode/Week_11/Semi_Final_Project/
 
