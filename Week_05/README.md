@@ -19,4 +19,8 @@ I think this film is a very successful and essential experiment for us to famili
 
 # New Mission Accepted
 
-In the afternoon, we were provided with the texts we need to put effort in to make them alive in the Task 3
+In the afternoon, we were provided with the texts we need to put effort in to make them alive in the Task 3. 
+
+![3](/Users/yutang/Documents/GitHub/MakeCode/Week_05/Images/3.png)
+
+We were tasked to chose one of the texts on the website: http://digbeyond.com/readme/phplist.php?course=Code-Words as the original piece for us to work on in Task 2. 
