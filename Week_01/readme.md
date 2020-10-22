@@ -1,4 +1,4 @@
-# **01 Introduction to Machinima**
+# Introduction to Machinima
 
 Andy and Karen introduced us into **Task 2** - digital literature and machinima and eased us in in the mini Melbourne in Minecraft EE.
 
@@ -13,7 +13,7 @@ Excited about the task, I set off to have a bit read of the book, and find out w
 
 
 
-# **02 My Succession in Coding**
+# My Succession in Coding
 
 The second section of the session is when Karen leading us to step by step setting up the IDE and hands-on create a digital canvas and multiple basic shapes by coding in library P5.js. 
 

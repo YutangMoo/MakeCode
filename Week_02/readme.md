@@ -1,4 +1,4 @@
-# 01 Types are Just Shapes Put Together
+# Types are Just Shapes Put Together
 
 On the magical Google Slides, we gathered in groups and digged a little deeper into the formative of modular types. 
 
@@ -15,7 +15,7 @@ Using very simple feature to create something visually stunning with systematic 
 
 
 
-# 02 Teaming Up
+# Teaming Up
 
 After made up our mind for using Minecraft as our electronic literature platform, me and a few lad formed the first MC team in this studio - thebestMinecrafters.
 
@@ -26,7 +26,7 @@ Group discussion decided we'll be working on The Introduction part of the *House
 
 
 
-# 03 Get Organised
+# Get Organised
 
 Tech-heads living in China, including me, are very familiar with Github as we are always finding useful resources to bypass some limitations. So when I heard we're using Github to managing and organising our codes, I got very excited because I'm about to become the person who's on the other side of the wall.
 
@@ -38,7 +38,7 @@ I'm agreeing with Andy that, as a designer, owning a Github repo of your own is 
 
 
 
-# 04 A Review of Solo Coding
+# A Review of Solo Coding
 
 Made with modular typeface in mind, this is my creation:
 https://yutangmoo.github.io/MakeCode/Week_02/Alphabet_Letter_M/

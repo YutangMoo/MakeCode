@@ -1,19 +1,25 @@
-# Week 10 
+# This Time is For Real - Part 2
 
-# a.k.a Milestone Review - Coding
+I had only one objective this week: fix my botched codes.
 
-Updated for review: https://yutangmoo.github.io/MakeCode/Week_10/New_Floating_Texts/
+In week 9, because I wanted to understand what my code really means, I re-wrote and cleaned up everything, and boom, it's broken.
 
-### What is this?
+![1](/Users/yutang/Documents/GitHub/MakeCode/Week_10/Images/1.png)
 
-Sentences from OK Texts by Mark Amerika, broke down, and forming a pseudo-3D style text cloud, which the texts moving around randomly, and bounce back when they hit the edge of the window. 
+As shown in the image above, all the texts that should display in order, are stacked together. After night after night of not working it out, I wove the white flag, and yelled "HELP!!!!" to Karen in this session to have my code fixed. 
 
-Also, the cloud reacts to mouse movement.
+Luckily, Karen was super eager to help! However her effort of leading me out of the swamp ended with my code overheated both of our computers to their limits, but she fixed the code in a jiffy, as the problem is I "double used" a variant, and caused the program to loop endlessly. 
 
-### What did you do after Week 10's session?
+Happy with the result, I started to "decorate" my code with font and colours, to make it more presentable.
 
-Not much. Added font, modified colour, added two extra layers of texts, with different font size and transparency using a different approach in my version 1, which ensured the randomness of the floating texts.
+Also using split feature, I added more text into the text cloud, and by creating seperate .js files, cleaned up the code a little bit.
 
-### What's next?
+![2](/Users/yutang/Documents/GitHub/MakeCode/Week_10/Images/2.png)
 
-Meanwhile, I'm figuring out how to make the broken down texts reform into it's original sentences, on a click of a mouse button. Probably need some tutorial lol!
+https://yutangmoo.github.io/MakeCode/Week_10/New_Floating_Texts/
+
+This result was also shown in this week's Milestone Review here:
+
+
+After the session, I was trying to work out how to make the floating texts form sentences, preferably in an animated fashion.
+
