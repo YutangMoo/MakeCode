@@ -24,6 +24,6 @@ By following Karen's patient instruction, I've managed to re-create what she's d
 https://yutangmoo.github.io/MakeCode/Week_01/MyFirstSketch/ 
 
 > ![Week1_Coding_Yutang](https://github.com/YutangMoo/MakeCode/blob/master/Week_01/Images/Week1_Coding_Yutang.png)
-> Mixed feeling seeing my code working in a browser window.s
+> Mixed feeling seeing my code working in a browser window
 
 After getting my hands dirty and write the code line by line, I had some fundamental knowledge of the technology and set off to create my first code-word experiment in a blank new Processing window.
