@@ -6,6 +6,8 @@ As a (quote/unquote) gamer, I've always found video game as an artform intriguin
 
 ![Week1_MC_Yutang](https://github.com/YutangMoo/MakeCode/blob/master/Week_01/Images/Week1_MC_Yutang.jpg)
 
+> Good night Virtual Melbourne
+
 The following five weeks, we need to form groups and create a digital cinema piece in a selected video game, based on Mark Z. Danielewski's horror book House of Leaves. 
 
 Excited about the task, I set off to have a bit read of the book, and find out what can I use out of the game's mechanism to build a make-believe world of House of Leaves.
@@ -24,6 +26,6 @@ https://yutangmoo.github.io/MakeCode/Week_01/MyFirstSketch/
 
 ![Week1_Coding_Yutang](https://github.com/YutangMoo/MakeCode/blob/master/Week_01/Images/Week1_Coding_Yutang.png)
 
-[^]: Mixed feeling seeing my code working in a browser window.
+> Mixed feeling seeing my code working in a browser window.
 
 After getting my hands dirty and write the code line by line, I had some fundamental knowledge of the technology and set off to create my first code-word experiment in a blank new Processing window.
