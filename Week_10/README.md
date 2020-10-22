@@ -4,7 +4,7 @@ I had only one objective this week: fix my botched codes.
 
 In week 9, because I wanted to understand what my code really means, I re-wrote and cleaned up everything, and boom, it's broken.
 
-![1](/Users/yutang/Documents/GitHub/MakeCode/Week_10/Images/1.png)
+![1](https://github.com/YutangMoo/MakeCode/blob/master/Week_10/Images/1.png)
 
 As shown in the image above, all the texts that should display in order, are stacked together. After night after night of not working it out, I wove the white flag, and yelled "HELP!!!!" to Karen in this session to have my code fixed. 
 
@@ -14,7 +14,7 @@ Happy with the result, I started to "decorate" my code with font and colours, to
 
 Also using split feature, I added more text into the text cloud, and by creating seperate .js files, cleaned up the code a little bit.
 
-![2](/Users/yutang/Documents/GitHub/MakeCode/Week_10/Images/2.png)
+![2](https://github.com/YutangMoo/MakeCode/blob/master/Week_10/Images/2.png)
 
 https://yutangmoo.github.io/MakeCode/Week_10/New_Floating_Texts/
 
