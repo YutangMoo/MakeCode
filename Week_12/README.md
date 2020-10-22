@@ -87,3 +87,6 @@ https://yutangmoo.github.io/MakeCode/Week_12/Final_Project/
 
 And the codes that actualised it:
 https://github.com/YutangMoo/MakeCode/tree/master/Week_12/Final_Project
+
+Here's the rationale and more explanations of what I've done and why I did them:
+https://github.com/YutangMoo/MakeCode/tree/master/Week_12/Rationale
