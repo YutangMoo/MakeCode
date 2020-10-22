@@ -7,9 +7,9 @@ https://www.youtube.com/watch?v=uiOQQN-uh4c (this link contains the entire playl
 
 Based on the ever crazily expanding storyboard + moodboard + script + everything else document (https://docs.google.com/document/d/19jYVR71h8XhRFNsr-k470x9JxL-L0lmXoieETXrT_1o/edit?usp=sharing), we scratch of sets we need to build, and scenes we need to shoot one by one, and handed them over to our brave film editor Faye and Win for the final touch. 
 
-![1](/Users/yutang/Documents/GitHub/MakeCode/Week_05/Images/1.png)
+![1](https://github.com/YutangMoo/MakeCode/blob/master/Week_05/Images/1.png)
 
-![2](/Users/yutang/Documents/GitHub/MakeCode/Week_05/Images/2.png)
+![2](https://github.com/YutangMoo/MakeCode/blob/master/Week_05/Images/2.png)
 
 Win, being the crazy one, volunteered himself to do the voiceover of the whole video, which really tied everything together.
 
@@ -21,6 +21,6 @@ I think this film is a very successful and essential experiment for us to famili
 
 In the afternoon, we were provided with the texts we need to put effort in to make them alive in the Task 3. 
 
-![3](/Users/yutang/Documents/GitHub/MakeCode/Week_05/Images/3.png)
+![3](https://github.com/YutangMoo/MakeCode/blob/master/Week_05/Images/3.png)
 
 We were tasked to chose one of the texts on the website: http://digbeyond.com/readme/phplist.php?course=Code-Words as the original piece for us to work on in Task 3. 
