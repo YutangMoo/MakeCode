@@ -72,15 +72,15 @@ With the click counter, each click will count one into the clicks variable, whic
 
 I wanted my final project to have more interactive depth, so, inspired by the video game *Undertale*, I added three hearts on the canvas, and by finishing each statements, one heart will be taken away, which added a little video-gamey interactive quality to the design.
 
-![1](/Users/yutang/Documents/GitHub/MakeCode/Week_12/Images/1.png)
+![1](https://github.com/YutangMoo/MakeCode/blob/master/Week_12/Images/1.png)
 
 Also inspire by the roughness and hint of cruelty of *Undertale*, I developed a set of visual effect, for example the shaking effect when user press their mouse button, and the serif typeface below the 8-bit sentences struggling to "escape" into their naive floating form.
 
-![2](/Users/yutang/Documents/GitHub/MakeCode/Week_12/Images/2.png)
+![2](https://github.com/YutangMoo/MakeCode/blob/master/Week_12/Images/2.png)
 
 To make my design even more intriguing, I've added a background white-noise of radio static, and to acknowledge every user interaction, a beep was played with each click. Also, with each heart taken out after  a statement finishing, I've added a punch noise to enhance the sensation of getting hurt (this was achieved by using my click counter btw).
 
-![3](/Users/yutang/Documents/GitHub/MakeCode/Week_12/Images/3.gif)
+![3](https://github.com/YutangMoo/MakeCode/blob/master/Week_12/Images/3.gif)
 
 A lot of little details were added in my design, and it'll take forever to explain here, so, take a look at my final project:
 https://yutangmoo.github.io/MakeCode/Week_12/Final_Project/
