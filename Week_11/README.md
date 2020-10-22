@@ -15,16 +15,10 @@ function mousePressed() {
 
 These simple lines of code were all about try and error, which I, once again, spent all night trying each possible combination of codes to make it work.
 
-Couldn't be bothered with messing with the fixed classes again, I decided to manually hard-code the appearing of the sentences. Because I need some effect to happen in exact time clicked, I fashioned a click counter like so:
+Long story short, after adding effects like crazy, I'm more than satisfied with the end result:
 
-```javascript
-let clicks = 0;
-function mousePressed() {
-	clicks ++;
-}
-```
-
-So that with each click, the clicks variable will increase by one, which gave me control of things happening on each step of interactions. 
+![1](/Users/yutang/Documents/GitHub/MakeCode/Week_11/Images/1.png)
 
 https://yutangmoo.github.io/MakeCode/Week_11/Semi_Final_Project/
 
+My next step is trying to make the foreground sentence appearing one word after another, and get my entire visual sorted.
