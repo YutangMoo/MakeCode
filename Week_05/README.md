@@ -23,4 +23,4 @@ In the afternoon, we were provided with the texts we need to put effort in to ma
 
 ![3](/Users/yutang/Documents/GitHub/MakeCode/Week_05/Images/3.png)
 
-We were tasked to chose one of the texts on the website: http://digbeyond.com/readme/phplist.php?course=Code-Words as the original piece for us to work on in Task 2. 
+We were tasked to chose one of the texts on the website: http://digbeyond.com/readme/phplist.php?course=Code-Words as the original piece for us to work on in Task 3. 
