@@ -9,5 +9,9 @@ https://github.com/YutangMoo/MakeCode/tree/master/Week_08/Prototype_OK_Texts
 
 
 
-# 
+# Wiggle Wiggle!
+
+In the afternoon where Karen returns, we step by step followed her on creating Wiggle Texts that will re-generate from a string with mousePressed. And as a bonus, which is quite complex, by simply calling the class letters will generate on canvas by pressing associated key on the keyboard.
+
+I only got to remix the code to make it like a McDonald's commercial lol.
 
