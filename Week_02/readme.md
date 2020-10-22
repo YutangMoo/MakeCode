@@ -35,3 +35,13 @@ We practised, which was lead by Karen of course, to create markdown files which 
 > ![Week2_Github_Yutang](https://github.com/YutangMoo/MakeCode/blob/master/Week_02/Images/Week2_Github_Yutang.png)
 
 I'm agreeing with Andy that, as a designer, owning a Github repo of your own is something worth showoff about. I'm already 40% happier. 
+
+
+
+# 04 A Review of Solo Coding
+
+Made with modular typeface in mind, this is my creation:
+https://yutangmoo.github.io/MakeCode/Week_02/Alphabet_Letter_M/
+
+Code:
+https://github.com/YutangMoo/MakeCode/blob/master/Week_02/Alphabet_Letter_M/Alphabet_Letter_M.js
