@@ -38,8 +38,6 @@ I'm more than grateful that I was allocated to this lovely family of lovely peop
 
 # Browse My Weekly Code+Words Journal
 
-[Home](https://yutangmoo.github.io/MakeCode/)
-
 [Week 01](https://yutangmoo.github.io/MakeCode/Week_01/)	|	[Week 02](https://yutangmoo.github.io/MakeCode/Week_02/)	|	[Week 03](https://yutangmoo.github.io/MakeCode/Week_03/)
 
 [Week 04](https://yutangmoo.github.io/MakeCode/Week_04/)	|	[Week 05](https://yutangmoo.github.io/MakeCode/Week_05/)	|	[Week 06](https://yutangmoo.github.io/MakeCode/Week_06/)
