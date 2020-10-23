@@ -6,8 +6,7 @@
 
 This is the last week of the Code+Words studio. 
 
-After a whole week of grinding again, my final project is released:
-https://yutangmoo.github.io/MakeCode/Week_12/Final_Project/
+After a whole week of grinding again, [my final project](https://yutangmoo.github.io/MakeCode/Week_12/Final_Project/) is released.
 
 Firstly, I've completely revamped the UI, by adding an actual OK button.
 
@@ -86,14 +85,11 @@ To make my design even more intriguing, I've added a background white-noise of r
 
 ![3](https://github.com/YutangMoo/MakeCode/blob/master/Week_12/Images/3.gif?raw=true)
 
-A lot of little details were added in my design, and it'll take forever to explain here, so, take a look at my final project:
-https://yutangmoo.github.io/MakeCode/Week_12/Final_Project/
 
-And the codes that actualised it:
-https://github.com/YutangMoo/MakeCode/tree/master/Week_12/Final_Project
 
-Here's the rationale and more explanations of what I've done and why I did them:
-https://github.com/YutangMoo/MakeCode/tree/master/Week_12/Rationale
+[The codes that actualised it](https://github.com/YutangMoo/MakeCode/tree/master/Week_12/Final_Project)
+
+[Here's the rationale and more explanations of what I've done and why I did them](https://github.com/YutangMoo/MakeCode/tree/master/Week_12/Rationale)
 
 
 

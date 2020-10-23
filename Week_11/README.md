@@ -23,7 +23,7 @@ Long story short, after adding effects like crazy, I'm more than satisfied with 
 
 ![1](https://github.com/YutangMoo/MakeCode/blob/master/Week_11/Images/1.png?raw=true)
 
-https://yutangmoo.github.io/MakeCode/Week_11/Semi_Final_Project/
+[Check it out live](https://yutangmoo.github.io/MakeCode/Week_11/Semi_Final_Project/)
 
 My next step is trying to make the foreground sentence appearing one word after another, and get my entire visual sorted.
 

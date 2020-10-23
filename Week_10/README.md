@@ -20,10 +20,9 @@ Also using split feature, I added more text into the text cloud, and by creating
 
 ![2](https://github.com/YutangMoo/MakeCode/blob/master/Week_10/Images/2.png?raw=true)
 
-https://yutangmoo.github.io/MakeCode/Week_10/New_Floating_Texts/
+[Check it out live](https://yutangmoo.github.io/MakeCode/Week_10/New_Floating_Texts/)
 
-This result was also shown in this week's Milestone Review here:
-https://github.com/YutangMoo/MakeCode/tree/master/Week_10/Milestone_Review
+[This result was also shown in this week's Milestone Review here](https://github.com/YutangMoo/MakeCode/tree/master/Week_10/Milestone_Review)
 
 After the session, I was trying to work out how to make the floating texts form sentences, preferably in an animated fashion.
 

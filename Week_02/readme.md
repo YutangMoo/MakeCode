@@ -44,11 +44,9 @@ I'm agreeing with Andy that, as a designer, owning a Github repo of your own is 
 
 # A Review of Solo Coding
 
-Made with modular typeface in mind, this is my creation:
-https://yutangmoo.github.io/MakeCode/Week_02/Alphabet_Letter_M/
+Made with modular typeface in mind, [this is my creation](https://yutangmoo.github.io/MakeCode/Week_02/Alphabet_Letter_M/)
 
-Code:
-https://github.com/YutangMoo/MakeCode/blob/master/Week_02/Alphabet_Letter_M/Alphabet_Letter_M.js
+[Raw code](https://github.com/YutangMoo/MakeCode/blob/master/Week_02/Alphabet_Letter_M/Alphabet_Letter_M.js)
 
 
 

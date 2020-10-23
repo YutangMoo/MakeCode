@@ -25,7 +25,7 @@ Before this studio course, I've had a tiny bit of experience in HTML + CSS codin
 
 By following Karen's patient instruction, I've managed to re-create what she's done, and here it is!
 
-https://yutangmoo.github.io/MakeCode/Week_01/MyFirstSketch/ 
+[Check it out live](https://yutangmoo.github.io/MakeCode/Week_01/MyFirstSketch/)
 
 > ![Week1_Coding_Yutang](https://github.com/YutangMoo/MakeCode/blob/master/Week_01/Images/Week1_Coding_Yutang.png?raw=true)
 > Mixed feeling seeing my code working in a browser window

@@ -34,8 +34,7 @@ We then brainstormed to come up with some big ideas - elements we would like to 
 
 > ![4_Pre](https://github.com/YutangMoo/MakeCode/blob/master/Week_03/Images/4_Pre.png?raw=true)
 
-All of these are documented in this Google Docs file: 
-https://docs.google.com/document/d/1WgoUWJ-hBFhOqOPKxN4vSNMM6sSR0MrueVGS22FdW4c/edit?usp=sharing
+All of these are documented in this [Google Docs file.](https://docs.google.com/document/d/1WgoUWJ-hBFhOqOPKxN4vSNMM6sSR0MrueVGS22FdW4c/edit?usp=sharing)
 
 
 

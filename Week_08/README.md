@@ -8,8 +8,7 @@ We shared our paper prototype in class.
 
 Because I've changed direction at the last minute, I decided to use Apple Keynote to quickly make an interactive prototype of the vision I had for the project. And by the look of it, I'm the only one who's making the prototype in a digital space.
 
-Here it is:
-https://github.com/YutangMoo/MakeCode/tree/master/Week_08/Prototype_OK_Texts
+[Here's the review page](https://github.com/YutangMoo/MakeCode/tree/master/Week_08/Prototype_OK_Texts)
 
 
 
@@ -21,9 +20,9 @@ In the afternoon where Karen returns, we step by step followed her on creating W
 
 I only got to remix the code to make it like a McDonald's commercial lol.
 
-Here it is:
-https://yutangmoo.github.io/MakeCode/Week_08/Wiggle_Letters/index.html
+[Check it out live](https://yutangmoo.github.io/MakeCode/Week_08/Wiggle_Letters/index.html)
 
 
 
 [⟵Week 07](https://yutangmoo.github.io/MakeCode/Week_07) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 08 ||  [Week 09 ⟶](https://yutangmoo.github.io/MakeCode/Week_09)
+
