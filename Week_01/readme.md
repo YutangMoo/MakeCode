@@ -4,7 +4,7 @@ Andy and Karen introduced us into **Task 2** - digital literature and machinima 
 
 As a (quote/unquote) gamer, I've always found video game as an artform intriguing. In my years of practice (wasting time gaming), I've always eager to look at a more technological layer of game designs. 
 
-![Week1_MC_Yutang](https://github.com/YutangMoo/MakeCode/blob/master/Week_01/Images/Week1_MC_Yutang.jpg)
+![Week1_MC_Yutang](/Images/Week1_MC_Yutang.jpg)
 Good night Virtual Melbourne
 
 The following five weeks, we need to form groups and create a digital cinema piece in a selected video game, based on Mark Z. Danielewski's horror book House of Leaves. 
