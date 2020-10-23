@@ -1,3 +1,7 @@
+[⟵Week 01](https://yutangmoo.github.io/MakeCode/Week_01) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 02 ||  [Week 03 ⟶](https://yutangmoo.github.io/MakeCode/Week_03)
+
+
+
 # Types are Just Shapes Put Together
 
 On the magical Google Slides, we gathered in groups and digged a little deeper into the formative of modular types. 
@@ -45,3 +49,7 @@ https://yutangmoo.github.io/MakeCode/Week_02/Alphabet_Letter_M/
 
 Code:
 https://github.com/YutangMoo/MakeCode/blob/master/Week_02/Alphabet_Letter_M/Alphabet_Letter_M.js
+
+
+
+[⟵Week 01](https://yutangmoo.github.io/MakeCode/Week_01) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 02 ||  [Week 03 ⟶](https://yutangmoo.github.io/MakeCode/Week_03)
