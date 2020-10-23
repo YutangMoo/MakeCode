@@ -6,7 +6,7 @@
 
 I first chosen the OK Texts by Mark Amerika as a joke, because it's the shortest and easiest to read. But, settling myself into his work, I've got more and more involved in the "depressionist" aethetic.
 
-![2](https://github.com/YutangMoo/MakeCode/blob/master/Week_06/Images/2.png)
+![2](https://github.com/YutangMoo/MakeCode/blob/master/Week_06/Images/2.png?raw=true)
 
 Especially because I'm currently reading/listening to The Hitchhiker's Guide to the Galaxy - in the book, there's this robot named Marvin which holds the same attitude as Marks work.
 
