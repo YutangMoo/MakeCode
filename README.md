@@ -2,6 +2,8 @@
 
 ### Have a seat, and help yourself with a beer.
 
+![200w_d](https://github.com/YutangMoo/MakeCode/blob/master/Images/200w_d.gif?raw=true)
+
 
 
 # Forewords
@@ -16,11 +18,15 @@ Partly because of the technical nature of this course speaks my language, when I
 
 Since lockdown, this is the first time I felt not being alone, and we got each other's back. 
 
+
+
 ### **Fresh New Pages**
 
 Being a professional designer and a design student at the same time, in the past six years or so, I never once woke up on a workday without looking at a professional design software. The task of Re-Reading is a pleasant change of pace of what we're doing all day every day, by putting us in an unfamiliar yet enjoyable scenario of electronic literature and filmmaking. It's a challenge of teamwork and management, and knowledge and research skills besides drawing pretty pictures with our computers. Putting together a full-on production team is as exciting as it sounds, and working together to achieve a goal to a very high standard is inspiring and uplifting.
 
 Coding is one of the crafts I don't dare touch, because in my years of working as a UI designer in a web-developing team, I never once succeeded directly working with code. P5.js is an excellent choice for this course that requires zero pre-acquisition of coding knowledge, as it speaks the same language as a designer, and focused on generating graphics and working with types on a canvas. Started by drawing rudimentary shapes and positioning ourselves, to work with animation and user interaction, I gradually built up my confidences in working with code, as Andy and Karen not limiting us working with the confine of the line-by-line session, but encouraging us, and gave us enough time to explore more possibilities of P5. The studio made playing around with code "cool", and as the future will inevitably leaning towards digitalizing everything, this knowledge made us the pioneers on experimenting how to translating paper-based words into interactive digital art pieces, that enhance the originals but not to lose their physical charm.
+
+
 
 ### **It's Sad to Say Goodbye**
 
