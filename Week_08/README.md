@@ -1,3 +1,7 @@
+[⟵Week 07](https://yutangmoo.github.io/MakeCode/Week_07) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 08 ||  [Week 09 ⟶](https://yutangmoo.github.io/MakeCode/Week_09)
+
+
+
 # This Time is For Real - Part 1
 
 We shared our paper prototype in class.
@@ -19,3 +23,7 @@ I only got to remix the code to make it like a McDonald's commercial lol.
 
 Here it is:
 https://yutangmoo.github.io/MakeCode/Week_08/Wiggle_Letters/index.html
+
+
+
+[⟵Week 07](https://yutangmoo.github.io/MakeCode/Week_07) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 08 ||  [Week 09 ⟶](https://yutangmoo.github.io/MakeCode/Week_09)

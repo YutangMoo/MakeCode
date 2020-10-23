@@ -1,3 +1,7 @@
+[⟵Week 10](https://yutangmoo.github.io/MakeCode/Week_10) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 11 ||  [Week 12 ⟶](https://yutangmoo.github.io/MakeCode/Week_12)
+
+
+
 # Compromised
 
 After once again, nights after nights working with the code, I finally gave up by finding out I don't have the physical energy and time to make the forming of the sentences animated.
@@ -22,3 +26,7 @@ Long story short, after adding effects like crazy, I'm more than satisfied with 
 https://yutangmoo.github.io/MakeCode/Week_11/Semi_Final_Project/
 
 My next step is trying to make the foreground sentence appearing one word after another, and get my entire visual sorted.
+
+
+
+[⟵Week 10](https://yutangmoo.github.io/MakeCode/Week_10) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 11 ||  [Week 12 ⟶](https://yutangmoo.github.io/MakeCode/Week_12)

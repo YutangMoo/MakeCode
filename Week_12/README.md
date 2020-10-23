@@ -1,3 +1,7 @@
+[⟵Week 11](https://yutangmoo.github.io/MakeCode/Week_11) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 12
+
+
+
 # The Happy Ending
 
 This is the last week of the Code+Words studio. 
@@ -90,3 +94,7 @@ https://github.com/YutangMoo/MakeCode/tree/master/Week_12/Final_Project
 
 Here's the rationale and more explanations of what I've done and why I did them:
 https://github.com/YutangMoo/MakeCode/tree/master/Week_12/Rationale
+
+
+
+[⟵Week 11](https://yutangmoo.github.io/MakeCode/Week_11) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 12

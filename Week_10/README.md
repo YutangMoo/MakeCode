@@ -1,3 +1,7 @@
+[⟵Week 09](https://yutangmoo.github.io/MakeCode/Week_09) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 10 ||  [Week 11 ⟶](https://yutangmoo.github.io/MakeCode/Week_11)
+
+
+
 # This Time is For Real - Part 2
 
 I had only one objective this week: fix my botched codes.
@@ -23,3 +27,6 @@ https://github.com/YutangMoo/MakeCode/tree/master/Week_10/Milestone_Review
 
 After the session, I was trying to work out how to make the floating texts form sentences, preferably in an animated fashion.
 
+
+
+[⟵Week 09](https://yutangmoo.github.io/MakeCode/Week_09) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 10 ||  [Week 11 ⟶](https://yutangmoo.github.io/MakeCode/Week_11)

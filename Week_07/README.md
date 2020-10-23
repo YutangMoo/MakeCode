@@ -1,3 +1,7 @@
+[⟵Week 06](https://yutangmoo.github.io/MakeCode/Week_06) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 07 ||  [Week 08 ⟶](https://yutangmoo.github.io/MakeCode/Week_08)
+
+
+
 # Paper Prototype V1
 
 Extracted the essences from the OK Texts, and based on my interpretation, I "invented" a cruel sentence generator (in the Paper Prototype form).
@@ -23,3 +27,6 @@ https://yutangmoo.github.io/MakeCode/Week_07/Sound_Test/
 
 This practice is not only another showcase of what the P5.js is capable of, it's also a demonstration of how to combine user interaction with effects.
 
+
+
+[⟵Week 06](https://yutangmoo.github.io/MakeCode/Week_06) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 07 ||  [Week 08 ⟶](https://yutangmoo.github.io/MakeCode/Week_08)

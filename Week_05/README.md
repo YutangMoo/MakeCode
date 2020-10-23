@@ -1,3 +1,7 @@
+[⟵Week 04](https://yutangmoo.github.io/MakeCode/Week_04) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 05 ||  [Week 06 ⟶](https://yutangmoo.github.io/MakeCode/Week_06)
+
+
+
 # Screening Day
 
 After weeks of planning, producing and screen-recording, our work is finally live. Check it out on YouTube:
@@ -24,3 +28,7 @@ In the afternoon, we were provided with the texts we need to put effort in to ma
 ![3](https://github.com/YutangMoo/MakeCode/blob/master/Week_05/Images/3.png?raw=true)
 
 We were tasked to chose one of the texts on the website: http://digbeyond.com/readme/phplist.php?course=Code-Words as the original piece for us to work on in Task 3. 
+
+
+
+[⟵Week 04](https://yutangmoo.github.io/MakeCode/Week_04) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 05 ||  [Week 06 ⟶](https://yutangmoo.github.io/MakeCode/Week_06)

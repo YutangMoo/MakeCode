@@ -1,3 +1,7 @@
+[⟵Week 05](https://yutangmoo.github.io/MakeCode/Week_05) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 06 ||  [Week 07 ⟶](https://yutangmoo.github.io/MakeCode/Week_07)
+
+
+
 # OK.
 
 I first chosen the OK Texts by Mark Amerika as a joke, because it's the shortest and easiest to read. But, settling myself into his work, I've got more and more involved in the "depressionist" aethetic.
@@ -25,3 +29,7 @@ Having old paint brushes and acrylic handy, I've quickly went on to examine how 
 Using two pieces of white paper as top and bottom boundary, I created a long stretch of scenery and road for the cars to "move" on, and it's simple as that!
 
 As Andy said, the paper prototype really is a fast and easy way to pitch what you had in mind to your stakeholder, especially works as a very rough direct visual representation of what they can expect.
+
+
+
+[⟵Week 05](https://yutangmoo.github.io/MakeCode/Week_05) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 06 ||  [Week 07 ⟶](https://yutangmoo.github.io/MakeCode/Week_07)

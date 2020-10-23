@@ -1,3 +1,7 @@
+[⟵Week 08](https://yutangmoo.github.io/MakeCode/Week_08) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 09 ||  [Week 10 ⟶](https://yutangmoo.github.io/MakeCode/Week_10)
+
+
+
 # Laying Down the First Brick
 
 The first visual effect in my prototype I was trying to achieve is floating texts.
@@ -14,4 +18,8 @@ I got rid of the lines connecting the particle's first, and changed each dot int
 https://yutangmoo.github.io/MakeCode/Week_09/Text_Cloud/
 
 After a good rest, I set-off first to learn exactly what those codes and the fixes meant.
+
+
+
+[⟵Week 08](https://yutangmoo.github.io/MakeCode/Week_08) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 09 ||  [Week 10 ⟶](https://yutangmoo.github.io/MakeCode/Week_10)
 
