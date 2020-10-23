@@ -1,4 +1,4 @@
-[Home](https://yutangmoo.github.io/MakeCode/) > Week 01 | [Week 02 ⟶](https://yutangmoo.github.io/MakeCode/Week_02)
+[Home](https://yutangmoo.github.io/MakeCode/) > Week 01 ||  [Week 02 ⟶](https://yutangmoo.github.io/MakeCode/Week_02)
 
 
 
@@ -35,4 +35,4 @@ After getting my hands dirty and write the code line by line, I had some fundame
 
 
 
-[Home](https://yutangmoo.github.io/MakeCode/) > Week 01 | [Week 02 ⟶](https://yutangmoo.github.io/MakeCode/Week_02)
+[Home](https://yutangmoo.github.io/MakeCode/) > Week 01 ||  [Week 02 ⟶](https://yutangmoo.github.io/MakeCode/Week_02)
