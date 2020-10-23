@@ -1,3 +1,7 @@
+[Home](https://yutangmoo.github.io/MakeCode/) > Week 01 | [Week 02 ⟶](https://yutangmoo.github.io/MakeCode/Week_02)
+
+
+
 # Introduction to Machinima
 
 Andy and Karen introduced us into **Task 2** - digital literature and machinima and eased us in in the mini Melbourne in Minecraft EE.
@@ -28,3 +32,7 @@ https://yutangmoo.github.io/MakeCode/Week_01/MyFirstSketch/
 >
 
 After getting my hands dirty and write the code line by line, I had some fundamental knowledge of the technology and set off to create my first code-word experiment in a blank new Processing window.
+
+
+
+[Home](https://yutangmoo.github.io/MakeCode/) > Week 01 | [Week 02 ⟶](https://yutangmoo.github.io/MakeCode/Week_02)
