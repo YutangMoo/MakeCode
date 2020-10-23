@@ -1,3 +1,7 @@
+[⟵Week 02](https://yutangmoo.github.io/MakeCode/Week_02) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 03 ||  [Week 04 ⟶](https://yutangmoo.github.io/MakeCode/Week_04)
+
+
+
 # Wot is Electronic Literature?
 
 After Andy presenting examples of Electronic Literatures, we set off, in the topic we're interested in, put together everything we can find related to the topic.
@@ -33,3 +37,6 @@ We then brainstormed to come up with some big ideas - elements we would like to 
 All of these are documented in this Google Docs file: 
 https://docs.google.com/document/d/1WgoUWJ-hBFhOqOPKxN4vSNMM6sSR0MrueVGS22FdW4c/edit?usp=sharing
 
+
+
+[⟵Week 02](https://yutangmoo.github.io/MakeCode/Week_02) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 03 ||  [Week 04 ⟶](https://yutangmoo.github.io/MakeCode/Week_04)

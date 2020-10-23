@@ -1,3 +1,7 @@
+[⟵Week 03](https://yutangmoo.github.io/MakeCode/Week_03) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 04 ||  [Week 05 ⟶](https://yutangmoo.github.io/MakeCode/Week_05)
+
+
+
 # Why Create Your Own, When You Can Use Other's (Not really.)
 
 Karen, the coding legend guided us through how to pre-load and use typefaces in our projects.
@@ -54,3 +58,7 @@ Thanks Control for inspiring me, truly a stunning game, 10/10 recommended.
 > ![tumblr_pa7xr2eIHw1qgojgxo5_500](https://github.com/YutangMoo/MakeCode/blob/master/Week_04/Images/tumblr_pa7xr2eIHw1qgojgxo5_500.gif?raw=true)
 >
 > From: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumblr.com%2Ftagged%2Fcontrol-game&psig=AOvVaw1j8DiiGaM0GFpRC3rG5JKr&ust=1603443205932000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCOD64sfpx-wCFQAAAAAdAAAAABAD
+
+
+
+[⟵Week 03](https://yutangmoo.github.io/MakeCode/Week_03) || [Home](https://yutangmoo.github.io/MakeCode/) > Week 04 ||  [Week 05 ⟶](https://yutangmoo.github.io/MakeCode/Week_05)
